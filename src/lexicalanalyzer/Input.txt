@@ -1,0 +1,25 @@
+int Hussein;
+    {
+    if
+        {
+        ali
+            {
+            majid
+            }
+        puria;
+            {
+            mohsen;
+            }
+        Sa1am=1234;
+        }
+    }
+    for(i=0;i<=5;i++)
+    {
+    Ali;
+        {
+        ABBAS;
+        }
+    int ali;
+    }
+
+
